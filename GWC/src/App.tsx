@@ -29,7 +29,23 @@ function App() {
           </div>
 
           <div className="Member-box">
+<<<<<<< HEAD
             <h3>Eleanor Schlett🤠</h3>
+=======
+            <h3>Asia Fleming🚀</h3>
+            <p>Year: Senior</p>
+            <p>Major: Computer Information Systems</p>
+          </div>
+          
+          <div className-"Member-box">
+            <h3>Aleena Tomy😁</h3>
+            <p>Year: Junior</p>
+            <p>Major: Computer Science</p>
+          </div>
+        
+          <div className="Member-box">
+            <h3>Marsha Christian🍓</h3>
+>>>>>>> 70036a07901007ecfb1541a0a4ff4da9ed5c23b1
             <p>Year: Junior</p>
             <p>Major: Computer Science</p>
           </div>
